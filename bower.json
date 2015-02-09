@@ -1,6 +1,7 @@
 {
   "name": "jQuery-menu-aim",
   "version": "1.0.0",
+  "main": "jquery.menu-aim.js",
   "homepage": "https://github.com/jacobroufa/jQuery-menu-aim",
   "authors": [
     "Jacob M. Roufa <jacob.roufa@gmail.com>"
